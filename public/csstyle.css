@@ -1,0 +1,59 @@
+h1 {
+    color: rgb(16, 224, 27);
+}
+
+h2 {
+    color: rgb(11, 231, 247);
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+body {
+    padding-top: 5rem;
+    background-image: url("https://wallpapershome.com/images/pages/pic_h/20755.jpg");
+}
+
+.starter-template {
+    padding: 2rem 1.5rem;
+    text-align: center;
+}
+
+td {
+    border: 5px solid rgb(161, 10, 231);
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(242, 246, 247);
+    color: rgba(43, 212, 38, 0.89);
+    font-size: 25px;
+}
+
+table {
+    border: 5px solid rgb(161, 10, 231);
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+}
+
+th {
+    border: 5px solid rgb(161, 10, 231);
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;
+    background-color: rgb(191, 232, 235);
+    color: rgba(17, 39, 233, 0.89);
+    font-size: 25px;
+}
